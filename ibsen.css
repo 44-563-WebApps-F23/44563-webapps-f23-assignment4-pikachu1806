@@ -1,6 +1,6 @@
 .speech
 {
-    color:darkred;
+    color:black;
     font-size: medium;
 }
 .direction
@@ -29,3 +29,27 @@
 .MANDERS {
     color:darkgreen;
 }
+table {
+    border-color: black;
+    width: 70%;
+    text-align: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+th {
+    border: 1px solid;
+    border-radius: 5px;
+    border-color:firebrick;
+    color: white;
+    height: 50px;
+    background-color:hotpink;
+}
+td {
+    border: 1px solid;
+    border-radius: 5px;
+    border-color:firebrick;
+    height: 30px;
+}
+
+tr:hover {background-color:lightskyblue;}
