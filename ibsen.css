@@ -1,0 +1,31 @@
+.speech
+{
+    color:black;
+    font-size: medium;
+}
+.direction
+{
+    background-color:lavender;
+    color: black;
+    font-size:small;
+}
+.name {
+    color:blueviolet;
+}
+.direction:hover
+{
+    color:deeppink;
+    background-color:lightpink;
+}
+.MRSALVING {
+    color:darkorchid;
+}
+.OSWALD {
+    color:gold;
+}
+.REGINA {
+    color:crimson;
+}
+.MANDERS {
+    color:darkgreen;
+}
