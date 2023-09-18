@@ -1,6 +1,6 @@
 .speech
 {
-    color:black;
+    color:darkred;
     font-size: medium;
 }
 .direction
@@ -10,7 +10,7 @@
     font-size:small;
 }
 .name {
-    color:blueviolet;
+    color:maroon
 }
 .direction:hover
 {
