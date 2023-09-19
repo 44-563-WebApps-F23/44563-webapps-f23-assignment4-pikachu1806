@@ -54,3 +54,23 @@ td {
 }
 
 tr:hover {background-color:lightskyblue;}
+
+.MRSALVING:hover{
+    font-size: medium;
+    color: palevioletred;
+    text-shadow: 0 0 10px palevioletred;
+    border-style: dashed;
+    border-radius: 5px;
+}
+.REGINA:hover {
+    font-size: medium;
+    color: orange;
+    text-shadow: 0 0 10px orange;
+    border-style: dashed;
+    border-radius: 5px;}
+.MANDERS:hover {
+    font-size: medium;
+    color: cornflowerblue;
+    text-shadow: 0 0 10px cornflowerblue;
+    border-style: dashed;
+    border-radius: 5px;}
