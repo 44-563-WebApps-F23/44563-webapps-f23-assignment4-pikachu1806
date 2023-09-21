@@ -74,3 +74,23 @@ tr:hover {background-color:lightskyblue;}
     text-shadow: 0 0 10px cornflowerblue;
     border-style: dashed;
     border-radius: 5px;}
+    ul.navbar-horizontal {
+        
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        }
+        ul.navbar-horizontal li {
+        float:left;
+        color:#000;
+        background-color:cyan;
+        }
+        ul.navbar-horizontal a {
+        display:block;
+        padding:8px
+        }
+        
+        ul.navbar-horizontal a:hover {  
+        background-color: green;
+        color:white;
+        }
