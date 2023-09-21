@@ -94,3 +94,17 @@ tr:hover {background-color:lightskyblue;}
         background-color: green;
         color:white;
         }
+
+        tr:nth-child(odd) {
+
+            background-color: #1b93cb;
+        
+          }
+        
+          tr:nth-child(even) {
+        
+            background-color: #62c7a2;
+        
+          }
+        
+         
